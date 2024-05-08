@@ -5,9 +5,9 @@ header-img: img/aboutsomeone.jpg
 email: liwei.gank@foxmail.com
 description: "尝试只是第一步"
 keyword: "Python；海鲜；飞机；peace and love"
-url: "https://Cailab-Liwei.github.io "          # your host, for absolute URL
+url: "https://Cailab-Liwei.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Cailab-Liwei/Cailab-Liwei.github.io " # you code repository
+github_repo: "https://github.com/Cailab-Liwei/Cailab-Liwei.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
